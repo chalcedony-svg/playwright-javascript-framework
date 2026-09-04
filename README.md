@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project automates important SauceDemo business flows using Playwright with JavaScript and the Page Object Model (POM) design pattern. The framework separates page actions from test scenarios for improved readability, reusability, and maintainability. The project structure follows Page Objects, Tests, and Test Data organization. 【1-a3d549】【1-a3d549】【1-ba8d8a】
+This project automates important SauceDemo business flows using Playwright with JavaScript and the Page Object Model (POM) design pattern. The framework separates page actions from test scenarios for improved readability, reusability, and maintainability. The project structure follows Page Objects, Tests, and Test Data organization. 
 
 ---
 
@@ -48,7 +48,6 @@ project
 - `testData/` contains reusable users and product data.
 - `playwright.config.js` contains execution and reporting configuration.
 
-【1-a3d549】【1-a3d549】【1-ba8d8a】
 
 ---
 
@@ -78,7 +77,7 @@ Install Playwright browsers:
 npx playwright install
 ```
 
-【1-a3d549】
+
 
 ---
 
@@ -108,8 +107,6 @@ Open Playwright report:
 npx playwright show-report
 ```
 
-【1-a3d549】【1-a3d549】
-
 ---
 
 ## Features
@@ -121,8 +118,6 @@ npx playwright show-report
 - HTML Reporting
 - Screenshots on Failure
 - Maintainable Framework Structure
-
-【1-a3d549】【1-a3d549】
 
 ---
 
